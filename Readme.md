@@ -6,12 +6,6 @@
 
 - [Learning Relational Databases](./step06_relational_databases)
 
-## Reading Material
-
-- [Database Design in DBMS Tutorial: Learn Data Modeling](https://www.guru99.com/database-design.html)
-- [What is Normalization in DBMS (SQL)? 1NF, 2NF, 3NF, BCNF](https://www.guru99.com/database-normalization.html)
-- [What is ER Modeling?](https://www.guru99.com/er-modeling.html)
-
 ## Class 19 Videos
 
 - [English YouTube](https://www.youtube.com/watch?v=377Iip-OVr0)
