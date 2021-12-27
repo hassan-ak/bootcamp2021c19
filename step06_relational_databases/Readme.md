@@ -63,4 +63,3 @@ Relational databases are the oldest one and they have a major issue of not being
   - 5NF (Fifth Normal Form) Rules
     - A table is in 5th Normal Form only if it is in 4NF and it cannot be decomposed into any number of smaller tables without loss of data.
   - 6NF (Sixth Normal Form) Proposed
-    -
