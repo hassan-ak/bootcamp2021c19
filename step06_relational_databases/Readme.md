@@ -26,6 +26,7 @@ Relational databases are the oldest one and they have a major issue of not being
     - ER Modeling
 
 - [What is Normalization](https://www.guru99.com/database-normalization.html)
+
   - Normalization is to reduces data redundancy and eliminates undesirable characteristics it divides larger tables into smaller tables and links them using relationships.
   - KEYs in SQL? - Key is for identifying a record uniquely. It can be a single or multiple columns used to identify rows. It is also used for finding duplicate data or making relations. And columns other than keys are known as non key columns.
     - Primary Key - A primary is a single column value used to identify a database record uniquely. It should have following properties
@@ -63,9 +64,17 @@ Relational databases are the oldest one and they have a major issue of not being
   - 5NF (Fifth Normal Form) Rules
     - A table is in 5th Normal Form only if it is in 4NF and it cannot be decomposed into any number of smaller tables without loss of data.
   - 6NF (Sixth Normal Form) Proposed
+
 - [What is ER Modeling](https://www.guru99.com/er-modeling.html)
   - Entity Relationship is a graphical approach to database design. It defines data elements and their relationship.
   - An Entity is a thing or object in real world that is distinguishable from surrounding environment
     - An entity has a set of properties
     - Entity properties can have values.
   - Entities can have relationships.
+  - Enhanced Entity Relationship (EER) Model
+    - EER Model is a high-level data model which provides extensions to original ER model. EER Models supports more details design. EER Modeling emerged as a solution for modeling highly complex databases.
+    - EER uses UML notation.
+      - Entities are represented as class diagrams.
+      - Relationships are represented as associations between entities.
+  - Why use ER Model?
+    - Relational DB dont support many to many reltaions
