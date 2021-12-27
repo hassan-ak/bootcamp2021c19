@@ -2,11 +2,11 @@
 
 ## Relational Database Design
 
-# Sections
+### Sections
 
 - [Learning Relational Databases](./step06_relational_databases)
 
-## Class 19 Videos
+### Class 19 Videos
 
 - [English YouTube](https://www.youtube.com/watch?v=377Iip-OVr0)
 - [English Facebook](https://www.facebook.com/fb.anees.ahmed/videos/604312681009733)
