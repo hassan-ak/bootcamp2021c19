@@ -66,6 +66,7 @@ Relational databases are the oldest one and they have a major issue of not being
   - 6NF (Sixth Normal Form) Proposed
 
 - [What is ER Modeling](https://www.guru99.com/er-modeling.html)
+
   - Entity Relationship is a graphical approach to database design. It defines data elements and their relationship.
   - An Entity is a thing or object in real world that is distinguishable from surrounding environment
     - An entity has a set of properties
@@ -78,3 +79,6 @@ Relational databases are the oldest one and they have a major issue of not being
       - Relationships are represented as associations between entities.
   - Why use ER Model?
     - Relational DB dont support many to many reltaions
+
+- Assignment
+  ![ER Diagram Assignment](./ER_Diagram.jpg)
