@@ -1,10 +1,12 @@
 # Step06 - Learning Relational Databases
 
-## Class Notes
+## Relational Databases Design
+
+### Class Notes
 
 Relational databases are the oldest one and they have a major issue of not being scaleable. Then documnet databases became teh norm, MangoDb was one of them but they have the problem of designing robust database. As database is constructed based on queries and if new queries arises there is lot difficulty to handle. Now there is development of distributed relational databases. Now we have the option of SQL distributed relational databases whihc are also scalebale. When there is lot of relations between the data Graph Databases are to be used. When there is very simple project document database can be used. For the complex apps with less connection between the data relational databases are the best.
 
-- [Relational Databases Design](https://www.guru99.com/database-design.html)
+- [Database Design in DBMS Tutorial: Learn Data Modeling](https://www.guru99.com/database-design.html)
 
   - What is Database Design
     - Sketching and planning part of the designing and implementation is part of development.
@@ -25,7 +27,7 @@ Relational databases are the oldest one and they have a major issue of not being
     - Normalization
     - ER Modeling
 
-- [What is Normalization](https://www.guru99.com/database-normalization.html)
+- [What is Normalization in DBMS (SQL)? 1NF, 2NF, 3NF, BCNF](https://www.guru99.com/database-normalization.html)
 
   - Normalization is to reduces data redundancy and eliminates undesirable characteristics it divides larger tables into smaller tables and links them using relationships.
   - KEYs in SQL? - Key is for identifying a record uniquely. It can be a single or multiple columns used to identify rows. It is also used for finding duplicate data or making relations. And columns other than keys are known as non key columns.
@@ -65,7 +67,7 @@ Relational databases are the oldest one and they have a major issue of not being
     - A table is in 5th Normal Form only if it is in 4NF and it cannot be decomposed into any number of smaller tables without loss of data.
   - 6NF (Sixth Normal Form) Proposed
 
-- [What is ER Modeling](https://www.guru99.com/er-modeling.html)
+- [What is ER Modeling?](https://www.guru99.com/er-modeling.html)
 
   - Entity Relationship is a graphical approach to database design. It defines data elements and their relationship.
   - An Entity is a thing or object in real world that is distinguishable from surrounding environment
